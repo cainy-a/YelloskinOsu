@@ -16,7 +16,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Install 7-zip
-        run: apt install p7zip-full
+        run: sudo apt-get install p7zip-full
 
       - name: Build skin
         run: |
