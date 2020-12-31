@@ -1,0 +1,24 @@
+name: Build skin
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Install 7-zip
+        run: apt install p7zip-full
+
+      - name: Build skin
+        run: |
+          7z a out.zip $GITHUB_WORKSPACE
+          mv out.zip Yelloskin.osk
