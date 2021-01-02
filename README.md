@@ -16,3 +16,12 @@ In your game settings, do the following:
 4. Enable "Ignore Beatmap Hitsounds" as this skin comes with hitsounds (well just one hitsound actually) designed to be as minimal as possible.
 5. If you're comfortable doing so, turning "Show Spectators" off will hide them from the HUD.
 6. If the leaderboard shows up ingame, hit `Tab` on your keyboard at the next break.
+
+## Drawbacks
+
+Due to the following drawbacks, this skin is recommended for gameplay only and not for browsing leaderboards etc.
+
+- As previously mentioned, the progress meter cannot be fully removed.
+- Removing the score and combo numbers makes the results screen blank.
+- The title and artist of the song that is displayed at the beginning of a map is not controlled by a skin and cannot be removed.
+- Removing the small rank images so they don't show ingame also hides ranks on the map select screen and leaderboards until you click on a leaderboard entry.
