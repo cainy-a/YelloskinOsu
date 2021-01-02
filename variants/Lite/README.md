@@ -9,7 +9,7 @@ The build script(s) reqires 7-zip installed.
 ## Differences in Lite version
 
 - Grades actually show on the map select and leaderboard
-- Use more standard hit numbers (is that what they're called?)
+- Doesn't hide standard hit numbers (is that what they're called?)
 
 ## Extra setup highly recommended
 
