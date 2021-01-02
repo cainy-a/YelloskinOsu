@@ -1,12 +1,14 @@
-# Distraction***Less*** for osu!
+# Distraction***Less***<u>^Lite^</u> for osu!
 
-Note: the Distraction***Less***<u>^Lite^</u> variant is recommended for most players: https://github.com/cainy-a/Yelloskin-osu/tree/distraction-less/variants/Lite
-
-A no-distractions osu! skin based on Yelloskin. Hides all HUD elements during gameplay.
+A no-distractions osu! skin based on Yelloskin., but not quite so severe as the main Distraction***Less*** skin.
 
 This is not a skin made by me, it is a combination of lots of different skins that I hacked together into one.
 
 The build script(s) reqires 7-zip installed.
+
+## Differences in Lite version
+
+- Grades actually show on the map select and leaderboard
 
 ## Extra setup highly recommended
 
@@ -26,4 +28,4 @@ Due to the following drawbacks, this skin is recommended for gameplay only and n
 - As previously mentioned, the progress meter cannot be fully removed.
 - Removing the score and combo numbers makes the results screen blank.
 - The title and artist of the song that is displayed at the beginning of a map is not controlled by a skin and cannot be removed.
-- Removing the small rank images so they don't show ingame also hides ranks on the map select screen and leaderboards until you click on a leaderboard entry.
+- ~~Removing the small rank images so they don't show ingame also hides ranks on the map select screen and leaderboards until you click on a leaderboard entry.~~
