@@ -1,4 +1,4 @@
-# Distraction***Less***<u>^Lite^</u> for osu!
+# Distraction***Less***<u><sup>Lite</sup></u> for osu!
 
 A no-distractions osu! skin based on Yelloskin., but not quite so severe as the main Distraction***Less*** skin.
 

@@ -1,6 +1,6 @@
 # Distraction***Less*** for osu!
 
-Note: the Distraction***Less***<u>^Lite^</u> variant is recommended for most players: https://github.com/cainy-a/Yelloskin-osu/tree/distraction-less/variants/Lite
+Note: the Distraction***Less***<u><sup>Lite</sup></u> variant is recommended for most players and can be found [here](https://github.com/cainy-a/Yelloskin-osu/tree/distraction-less/variants/Lite)
 
 A no-distractions osu! skin based on Yelloskin. Hides all HUD elements during gameplay.
 
