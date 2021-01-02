@@ -10,6 +10,7 @@ The build script(s) reqires 7-zip installed.
 
 - Grades actually show on the map select and leaderboard
 - Doesn't hide standard hit numbers (is that what they're called?)
+- Has slidertick sound
 
 ## Extra setup highly recommended
 
