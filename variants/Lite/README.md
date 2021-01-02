@@ -33,3 +33,4 @@ Due to the following drawbacks, this skin is recommended for gameplay only and n
 - The title and artist of the song that is displayed at the beginning of a map is not controlled by a skin and cannot be removed.
 - <u>FIXED IN LITE</u> ~~Removing the small rank images so they don't show ingame also hides ranks on the map select screen and leaderboards until you click on a leaderboard entry.~~
 - <u>NEW IN LITE</u> The score and accuracy meters ARE displayed due to the ranking screen fix.
+- <u>NEW IN LITE</u> During breaks, *half* of a ranking icon can be seen in the top right.
