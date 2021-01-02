@@ -1,0 +1,3 @@
+# Sources
+
+This skin is based off of Yelloskin (should be pretty obvious as they share a repository!). If can be found on the master branch [here](https://github.com/cainy-a/YelloskinOsu/tree/master). The most important tools for this skin were the two files in this folder. `blank.png` can be copied and renamed to the name of any skin element to hide it. `blank.wav` can be copied and renamed to the name of any sound to silence it.
