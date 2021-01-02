@@ -11,6 +11,7 @@ The build script(s) reqires 7-zip installed.
 - Grades actually show on the map select and leaderboard
 - Doesn't hide standard hit numbers (is that what they're called?)
 - Has slidertick sound
+- Ranking screen now works, albeit slightly misaligned.
 
 ## Extra setup highly recommended
 
@@ -28,6 +29,7 @@ In your game settings, do the following:
 Due to the following drawbacks, this skin is recommended for gameplay only and not for browsing leaderboards etc.
 
 - As previously mentioned, the progress meter cannot be fully removed.
-- Removing the score and combo numbers makes the results screen blank.
+- <u>FIXED IN LITE</u> ~~Removing the score and combo numbers makes the results screen blank.~~
 - The title and artist of the song that is displayed at the beginning of a map is not controlled by a skin and cannot be removed.
-- ~~Removing the small rank images so they don't show ingame also hides ranks on the map select screen and leaderboards until you click on a leaderboard entry.~~
+- <u>FIXED IN LITE</u> ~~Removing the small rank images so they don't show ingame also hides ranks on the map select screen and leaderboards until you click on a leaderboard entry.~~
+- <u>NEW IN LITE</u> The score and accuracy meters ARE displayed due to the ranking screen fix.
