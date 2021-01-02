@@ -34,5 +34,5 @@ Due to the following drawbacks, this skin is recommended for gameplay only and n
 
 Alternative versions of the skin.
 
-- Lite: A low-distractions osu! skin but not quite so severe as the main skin.
-- Minimal: A *TRULY* no-distractions osu! skin.
+- [Lite](https://github.com/cainy-a/Yelloskin-osu/tree/distraction-less/variants/Lite): A low-distractions osu! skin but not quite so severe as the main skin.
+- [Minimal](https://github.com/cainy-a/Yelloskin-osu/tree/distraction-less/variants/Minimal): A *TRULY* no-distractions osu! skin.
