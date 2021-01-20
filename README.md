@@ -1,11 +1,10 @@
-# YelloskinOsu
-My osu! skin.
+# Yelloskin osu!
 
-This is not a skin made by me, it is a combination of lots of different skins that I hacked together into one.
+I don’t work on this skin anymore. I use a modified version of Blobs which is now what you’ll find here.
 
-The build script(s) reqires 7-zip installed.
+## Links to the last version of Yelloskin and other skinning stuff
 
-## Other skinning projects in this repo
+- [Yelloskin](https://github.com/cainy-a/Yelloskin-osu/tree/master) - the remains of Yelloskin
 - [(no) Nekopara](https://github.com/cainy-a/Yelloskin-osu/tree/master/extras/(no)%20Nekopara) - the Nekopara skin but gameplay only
 - [Lifelife Arista - Fixed Hitcircles](https://github.com/cainy-a/Yelloskin-osu/tree/master/extras/Lifeline%20Arista%20-%20Fixed%20Hitcircles) - Lifeline Arista's circles but correctly sized to fit the sliders properly.
 - [Non Distracting Hitsound](https://github.com/cainy-a/Yelloskin-osu/tree/master/extras/Non%20Distracting%20Hitsound) - My non distracting hitsounds
