@@ -4,6 +4,8 @@ The old version of my skin is available on the [`legacy` branch](https://github.
 
 This version started over again using Blobs as the base.
 
+[![Demo Video](https://img.youtube.com/vi/FXcBwbciekk/0.jpg)](https://youtu.be/FXcBwbciekk)
+
 ## Old version and other skinning stuff
 
 - [Yelloskin](https://github.com/cainy-a/Yelloskin-osu/tree/legacy) - the original skin
