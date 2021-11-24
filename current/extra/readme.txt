@@ -1,0 +1,1 @@
+If you want to replace something just copy and paste the content of your choice into the main skin folder.
